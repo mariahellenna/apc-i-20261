@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Olá mundo");
+    printf("cemiterio de cachorro e ilegal");
     return 0;
 }
